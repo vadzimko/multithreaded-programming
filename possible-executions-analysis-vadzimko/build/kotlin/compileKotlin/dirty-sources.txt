@@ -1,0 +1,2 @@
+/Users/v.badyaev/Downloads/ITMO/MPP/possible-executions-analysis-vadzimko/src/main/kotlin/ru/ifmo/pp/lamport_lock/Verifier.kt
+/Users/v.badyaev/Downloads/ITMO/MPP/possible-executions-analysis-vadzimko/src/PossibleExecutionsVerifier.kt

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LockFreedomTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-22T14:15:40" hostname="vadzimko.local" time="5.035">
+  <properties/>
+  <testcase name="testLockFreedom" classname="LockFreedomTest" time="5.035"/>
+  <system-out><![CDATA[=== LockFreedomTest
+--- 0: Performed 0 operations
+--- 1: Performed 259477 operations (pause/resumes 171)
+--- 2: Performed 574713 operations (pause/resumes 297)
+--- 3: Performed 1001048 operations (pause/resumes 345)
+--- 4: Performed 1547938 operations (pause/resumes 412)
+--- 5: Performed 2030904 operations (pause/resumes 491)
+------ Done with 2031069 operations (pause/resumes 492)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
